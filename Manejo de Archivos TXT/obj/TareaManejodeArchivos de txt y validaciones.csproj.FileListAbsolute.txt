@@ -1,0 +1,10 @@
+C:\Users\K1024\source\repos\TareaManejodeArchivos de txt y validaciones\obj\Debug\TareaManejodeArchivos de txt y validaciones.csproj.AssemblyReference.cache
+C:\Users\K1024\source\repos\TareaManejodeArchivos de txt y validaciones\obj\Debug\TareaManejodeArchivos_de_txt_y_validaciones.Properties.Resources.resources
+C:\Users\K1024\source\repos\TareaManejodeArchivos de txt y validaciones\obj\Debug\TareaManejodeArchivos de txt y validaciones.csproj.GenerateResource.cache
+C:\Users\K1024\source\repos\TareaManejodeArchivos de txt y validaciones\obj\Debug\TareaManejodeArchivos de txt y validaciones.csproj.CoreCompileInputs.cache
+C:\Users\K1024\source\repos\TareaManejodeArchivos de txt y validaciones\bin\Debug\TareaManejodeArchivos de txt y validaciones.exe.config
+C:\Users\K1024\source\repos\TareaManejodeArchivos de txt y validaciones\bin\Debug\TareaManejodeArchivos de txt y validaciones.exe
+C:\Users\K1024\source\repos\TareaManejodeArchivos de txt y validaciones\bin\Debug\TareaManejodeArchivos de txt y validaciones.pdb
+C:\Users\K1024\source\repos\TareaManejodeArchivos de txt y validaciones\obj\Debug\TareaManejodeArchivos de txt y validaciones.exe
+C:\Users\K1024\source\repos\TareaManejodeArchivos de txt y validaciones\obj\Debug\TareaManejodeArchivos de txt y validaciones.pdb
+C:\Users\K1024\source\repos\TareaManejodeArchivos de txt y validaciones\obj\Debug\TareaManejodeArchivos_de_txt_y_validaciones.Form1.resources
